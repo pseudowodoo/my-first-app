@@ -1,0 +1,21 @@
+/* header1 */
+h1 { 
+    color: red;
+}
+p {
+    color:blue;
+}
+#docTitle {
+    color:green;
+}
+.docTitle1 {
+    color:#333333;
+}
+#navbox{
+    background-color: grey;
+    border: #333 1px solid;
+    border-color: rgba(255, 255, 0, 0.8);
+    margin: 10px;
+    padding: 20px;
+    display: block;
+}
